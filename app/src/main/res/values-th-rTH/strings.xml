@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">andtest1</string>
+    <string name="e_mail">อีเมล</string>
+    <string name="login">ล็อกอิน</string>
+    <string name="loginS">เข้าสู่ระบบสำเร็จ</string>
+    <string name="login_to_your_accout">เข้าสู่ระบบด้วยรหัสของคุณ</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="rememberpassword">จดจำรหัสผ่าน</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">andtest1</string>
+    <string name="login">Login</string>
+    <string name="rememberpassword">rememberpassword</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login_to_your_accout">Login To Your accout</string>
+    <string name="loginS">yeslogin</string>
+</resources>
